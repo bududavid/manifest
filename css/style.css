@@ -913,7 +913,7 @@ body {
 }
 
 .work-block_img {
-  width: 544px;
+  max-width: 544px;
 }
 
 @media (max-width: 1366px) {
